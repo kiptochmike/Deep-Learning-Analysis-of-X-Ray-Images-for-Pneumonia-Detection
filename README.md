@@ -31,4 +31,4 @@ Model 3 outperformed Model 2 with better metrics: lower test loss, higher accura
 
 ### Deployment
 I deployed Model 3 using flask and it was able to make the predictions
-![Alternative text](https://github.com/Bree-009/Deep-Learning-Analysis-of-X-Ray-Images-for-Pneumonia-Detection/blob/main/pneumonia.png)
+![Alternative text](https://github.com/Bree-009/Deep-Learning-Analysis-of-X-Ray-Images-for-Pneumonia-Detection/blob/main/pneumonia.PNG)
